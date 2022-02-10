@@ -1,0 +1,8 @@
+1 - Home com uma descrição de uma empresa centralizada na tela
+
+2 - Uma pagina com um formulario de contato com pelo menos 7 campos
+
+3 - Um pagina com uma galeria de foto com pelo menos 10 arquivos
+
+todos as paginas deve conter um menu HOME | CONTATO | GALERIA
+

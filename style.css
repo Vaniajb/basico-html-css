@@ -1,0 +1,59 @@
+bodyHome{
+    background-color: rgb(185, 218, 209);
+    
+}
+
+
+.menu{
+    background-color: rgb(133, 121, 122);
+    text-align: center;
+    padding: 1px;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding-bottom: -25px;    
+    background-image: url(img/fundo.jpg)
+}
+.bodyFormulario{
+    background-color: rgb(26, 214, 214);
+    background-image: url(img/fundo2.jpg);
+}
+.bodyGaleria{
+    background-color: cornflowerblue;
+    background-image: url(img/fundo3.jpg);
+}
+.fe{
+    padding: 56px;
+}
+.tamanho{
+    
+    width:500px;
+    height:500px;
+ 
+
+}
+.cor{
+    color: rgb(0, 15, 15);
+    font-weight: bold;
+}
+.corHome{
+    text-align: center;
+    font: bolder;
+    color: rgb(55, 15, 100);
+}
+.bv{
+    color: rgba(11, 12, 12, 0.979);
+    font-weight: bold;
+    text-align:center;  
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+}
+.bv2{
+    color: rgb(129, 25, 25);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bv3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
